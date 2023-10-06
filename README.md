@@ -1,7 +1,7 @@
 ### Activity
 
 - 명지대학교 융합소프트웨어학부 2019.03 ~
-- LIVID 백엔드 책 스터디 2023.01 ~
+- [LIVID](https://github.com/Learning-Is-Vital-In-Developmen) 백엔드 책 스터디 2023.01 ~
 - [프로그라피](https://prography.org) 8기 스프링 파트 2023.02 ~ 2023.08
 
 ### Projects
