@@ -12,13 +12,13 @@
 
 ### Study
 
-2023.01 ~ 2023.03 : Object 스터디 (LIVID)
+2023.01 ~ 2023.03 : [Object 스터디](https://github.com/Learning-Is-Vital-In-Development/23-1-Objects) (LIVID)
 
-2023.01 ~ 2023.03 : Effective-Java 스터디 (LIVID)
+2023.01 ~ 2023.03 : [Effective-Java 스터디](https://github.com/Learning-Is-Vital-In-Development/23-4-effective_java) (LIVID)
 
-2023.07 ~ 2023.09 : Head First Design Patterns 스터디 (LIVID)
+2023.07 ~ 2023.09 : [Head First Design Patterns 스터디](https://github.com/Learning-Is-Vital-In-Development/23-10-DesignPatterns) (LIVID)
 
-2023.10 ~ : 도커교과서 스터디 (LIVID)
+2023.10 ~ 2023.12 : [도커교과서 스터디](https://github.com/Learning-Is-Vital-In-Development/23-16-docker-textbook-2) (LIVID)
 
 <!--
 **choihuk/choihuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
